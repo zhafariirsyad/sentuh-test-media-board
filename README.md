@@ -89,3 +89,7 @@ npm run dev
 ### Note
 
 - **Media missing on client**: verify `php artisan storage:link` was run in admin and `MEDIA_BASE_URL` points to the admin URL serving `storage`.
+
+## Demo Video
+
+[Google Drive](https://drive.google.com/drive/folders/1rldroOQgWn4gi_YTf8e8WZYPsSeTK_1v?usp=sharing)
